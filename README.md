@@ -14,7 +14,7 @@ And the user guesses
 
 the computer will output:
 
-'''markdown
+"""markdown
     Correct colour, correct position:     1
     Correct colour, incorrect position:   2
-'''
+"""
